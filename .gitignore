@@ -1,0 +1,26 @@
+# Never upload individual-level controlled or large RNA-seq data
+*.rda
+*.RData
+*.rds
+*.RDS
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+*.sqlite
+*.db
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+data/
+input/
+outputs/
+results/generated/
