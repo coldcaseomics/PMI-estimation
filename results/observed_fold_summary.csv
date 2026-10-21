@@ -1,0 +1,6 @@
+fold,train,test,tmm_reference,filtered_genes,candidate_genes,abs_r_gt_02,fdr_lt_05,status
+1,213,54,R3374,17009,1386,,,panels_evaluated
+2,213,54,R3991,16972,1849,,,panels_evaluated
+3,214,53,R2999,,917,,,top1000_not_available
+4,214,53,R4394,16968,2,121,2,minimum_top5_not_available
+5,214,53,,,,,not_run
